@@ -2,9 +2,250 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1e5fb3-11dd-4abd-a942-5260fb67143c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/install.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/images/arrow-square.gif" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/images/arrow-square.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/images/code_button.png" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/images/code_button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/images/down.gif" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/images/down.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/images/view_code.png" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/images/view_code.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/Thumbnail/default.png" afterPath="$PROJECT_DIR$/usr/plugins/Thumbnail/default.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/404.jpg" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/404.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/about.jpg" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/about.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/arrow.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/arrow.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/author.jpg" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/author.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/avatar.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/background.jpg" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/background.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/default.jpg" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/default.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/download-background.jpg" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/download-background.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/download.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/download.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/favicon.ico" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/fingerprint.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/fingerprint.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/icon-police.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/icon-police.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/licenses.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/licenses.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/options/col-left.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/options/col-left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/options/col-right.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/options/col-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/options/new-layout.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/options/new-layout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/options/old-layout.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/options/old-layout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/ul-li.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/ul-li.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/images/weixin.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/images/weixin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/screenshot.png" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/screenshot.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/BaiduSlug/Action.php" afterPath="$PROJECT_DIR$/usr/plugins/BaiduSlug/Action.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/BaiduSlug/Pinyin.php" afterPath="$PROJECT_DIR$/usr/plugins/BaiduSlug/Pinyin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/BaiduSlug/Plugin.php" afterPath="$PROJECT_DIR$/usr/plugins/BaiduSlug/Plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/Plugin.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/Plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/css/codebox.css" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/css/codebox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/4cs.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/4cs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/6502acme.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/6502acme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/6502kickass.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/6502kickass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/6502tasm.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/6502tasm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/68000devpac.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/68000devpac.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/abap.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/abap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/actionscript.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/actionscript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/actionscript3.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/actionscript3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ada.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ada.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/algol68.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/algol68.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/apache.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/apache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/applescript.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/applescript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/apt_sources.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/apt_sources.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/asm.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/asm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/asp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/asp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/autoconf.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/autoconf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/autohotkey.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/autohotkey.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/autoit.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/autoit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/avisynth.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/avisynth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/awk.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/awk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/bash.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/bash.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/basic4gl.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/basic4gl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/bf.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/bf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/bibtex.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/bibtex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/blitzbasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/blitzbasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/bnf.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/bnf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/boo.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/boo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/c.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/c_mac.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/c_mac.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/caddcl.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/caddcl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cadlisp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cadlisp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cfdg.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cfdg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cfm.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cfm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/chaiscript.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/chaiscript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cil.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cil.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/clojure.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/clojure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cmake.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cmake.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cobol.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cobol.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cpp-qt.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cpp-qt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cpp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cpp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/csharp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/csharp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/css.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/css.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cuesheet.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/cuesheet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/d.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/dcs.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/dcs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/delphi.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/delphi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/diff.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/diff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/div.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/div.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/dos.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/dos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/dot.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/dot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/e.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ecmascript.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ecmascript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/eiffel.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/eiffel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/email.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/erlang.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/erlang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/f1.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/f1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/fo.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/fo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/fortran.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/fortran.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/freebasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/freebasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/fsharp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/fsharp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gambas.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gambas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gdb.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/genero.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/genero.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/genie.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/genie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gettext.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gettext.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/glsl.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/glsl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gml.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gnuplot.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gnuplot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/go.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/go.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/groovy.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/groovy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gwbasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/gwbasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/haskell.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/haskell.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/hicest.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/hicest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/hq9plus.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/hq9plus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/html4strict.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/html4strict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/icon.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/icon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/idl.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/idl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ini.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ini.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/inno.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/inno.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/intercal.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/intercal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/io.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/io.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/j.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/j.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/java.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/java.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/java5.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/java5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/javascript.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/javascript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/jquery.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/jquery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/kixtart.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/kixtart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/klonec.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/klonec.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/klonecpp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/klonecpp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/latex.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/latex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lb.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lisp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lisp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/locobasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/locobasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/logtalk.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/logtalk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lolcode.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lolcode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lotusformulas.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lotusformulas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lotusscript.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lotusscript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lscript.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lscript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lsl2.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lsl2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lua.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/lua.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/m68k.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/m68k.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/magiksf.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/magiksf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/make.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/make.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mapbasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mapbasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/matlab.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/matlab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mirc.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mirc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mmix.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mmix.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/modula2.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/modula2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/modula3.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/modula3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mpasm.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mpasm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mxml.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mxml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mysql.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/mysql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/newlisp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/newlisp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/nsis.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/nsis.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oberon2.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oberon2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/objc.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/objc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/objeck.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/objeck.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ocaml-brief.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ocaml-brief.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ocaml.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ocaml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oobas.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oobas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oracle11.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oracle11.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oracle8.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oracle8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oxygene.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oxygene.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oz.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/oz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pascal.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pascal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pcre.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pcre.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/per.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/per.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/perl.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/perl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/perl6.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/perl6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pf.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/php-brief.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/php-brief.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/php.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pic16.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pic16.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pike.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pike.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pixelbender.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/pixelbender.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/plsql.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/plsql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/postgresql.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/postgresql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/povray.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/povray.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/powerbuilder.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/powerbuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/powershell.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/powershell.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/progress.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/progress.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/prolog.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/prolog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/properties.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/properties.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/providex.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/providex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/purebasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/purebasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/python.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/python.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/q.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/q.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/qbasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/qbasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/rails.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/rails.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/rebol.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/rebol.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/reg.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/reg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/robots.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/robots.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/rpmspec.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/rpmspec.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/rsplus.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/rsplus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ruby.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/ruby.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/sas.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/sas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/scala.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/scala.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/scheme.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/scheme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/scilab.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/scilab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/sdlbasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/sdlbasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/smalltalk.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/smalltalk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/smarty.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/smarty.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/sql.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/sql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/systemverilog.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/systemverilog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/tcl.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/tcl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/teraterm.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/teraterm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/text.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/thinbasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/thinbasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/tsql.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/tsql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/typoscript.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/typoscript.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/unicon.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/unicon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vala.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vala.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vb.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vbnet.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vbnet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/verilog.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/verilog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vhdl.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vhdl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vim.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/vim.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/visualfoxpro.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/visualfoxpro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/visualprolog.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/visualprolog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/whitespace.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/whitespace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/whois.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/whois.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/winbatch.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/winbatch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/xbasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/xbasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/xml.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/xml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/xorg_conf.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/xorg_conf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/xpp.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/xpp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/z80.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/z80.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/zxbasic.php" afterPath="$PROJECT_DIR$/usr/plugins/CodeBox/geshi/geshi/zxbasic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/ColorHighlight/res/lines.css" afterPath="$PROJECT_DIR$/usr/plugins/ColorHighlight/res/lines.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/Thumbnail/Plugin.php" afterPath="$PROJECT_DIR$/usr/plugins/Thumbnail/Plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/.gitignore" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/404.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/LICENSE" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/README.md" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/archive.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/archive.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/comments.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/css/kratos.diy.css" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/css/kratos.diy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/footer.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/functions.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/header.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/index.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/js/kratos.diy.js" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/js/kratos.diy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/js/kratos.js" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/js/kratos.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/page.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/page_archives.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/page_archives.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/page_home.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/page_home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/page_no_sidebar.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/page_no_sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/post.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/sidebar.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/style.css" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,121 +256,168 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Common.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/var/Typecho/Common.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="821" column="48" lean-forward="false" selection-start-line="821" selection-start-column="48" selection-end-line="821" selection-end-column="48" />
-              <folding>
-                <marker date="1509303532000" expanded="true" signature="7851:8875" ph="..." />
-                <marker date="1509303532000" expanded="true" signature="7862:8774" ph="..." />
-                <marker date="1509303532000" expanded="true" signature="7945:8762" ph="..." />
-                <marker date="1509303532000" expanded="true" signature="7964:8240" ph="{...}" />
-                <marker date="1509303532000" expanded="true" signature="8360:8542" ph="{...}" />
-                <marker date="1509303532000" expanded="true" signature="8558:8610" ph="{...}" />
-                <marker date="1509303532000" expanded="true" signature="8634:8746" ph="{...}" />
-                <marker date="1509303532000" expanded="true" signature="8785:8867" ph="..." />
-                <marker date="1509303532000" expanded="true" signature="8817:8855" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="config.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="50" column="12" lean-forward="false" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/index.php">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="766">
-              <caret line="158" column="0" lean-forward="false" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file-upload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/file-upload.php">
+      <file leaf-file-name="lines.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usr/plugins/ColorHighlight/res/lines.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            <state relative-caret-position="540">
+              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file-upload-js.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/file-upload-js.php">
+      <file leaf-file-name="Archive.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Archive.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="install.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/install.php">
+      <file leaf-file-name="Recent.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Recent.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="137" column="51" lean-forward="true" selection-start-line="137" selection-start-column="51" selection-end-line="137" selection-end-column="51" />
+            <state relative-caret-position="-179">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1395">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4679">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/comments.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="107" column="224" lean-forward="false" selection-start-line="107" selection-start-column="224" selection-end-line="107" selection-end-column="224" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage-comments.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/manage-comments.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="306" column="78" lean-forward="false" selection-start-line="306" selection-start-column="74" selection-end-line="306" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-180">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Upgrade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/var/Upgrade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1509303532000" expanded="true" signature="29102:29133" ph="DROP TABLE I... " />
-                <marker date="1509303532000" expanded="true" signature="29293:29304" ph="DROP TABLE $... " />
-                <marker date="1509303532000" expanded="true" signature="29473:29484" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="5131:5179" ph="ALTER TABLE ${$prefix}users" />
+                <marker date="1509303532000" expanded="true" signature="5324:5379" ph="ALTER TABLE ${$prefix}users" />
+                <marker date="1509303532000" expanded="true" signature="5563:6131" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="6186:6529" ph="INSERT INTO ${$prefix}users_${$uuid}... " />
+                <marker date="1509303532000" expanded="true" signature="6366:6529" ph="SELECT &quot;uid&quot;... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="6584:6616" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="6671:7225" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="7280:7348" ph="INSERT INTO ${$prefix}users... " />
+                <marker date="1509303532000" expanded="true" signature="7313:7348" ph="SELECT * FRO... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="7411:7444" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="8116:8188" ph="ALTER TABLE ${$prefix}contents" />
+                <marker date="1509303532000" expanded="true" signature="8243:8312" ph="ALTER TABLE ${$prefix}metas" />
+                <marker date="1509303532000" expanded="true" signature="8457:8534" ph="ALTER TABLE ${$prefix}contents" />
+                <marker date="1509303532000" expanded="true" signature="8589:8663" ph="ALTER TABLE ${$prefix}metas" />
+                <marker date="1509303532000" expanded="true" signature="8847:9581" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="9636:9722" ph="INSERT INTO ${$prefix}contents${$uuid}... " />
+                <marker date="1509303532000" expanded="true" signature="9685:9722" ph="SELECT * FRO... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="9777:9812" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="9867:10588" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="10643:10716" ph="INSERT INTO ${$prefix}contents... " />
+                <marker date="1509303532000" expanded="true" signature="10679:10716" ph="SELECT * FRO... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="10779:10814" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="11155:11493" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="11548:11628" ph="INSERT INTO ${$prefix}metas${$uuid}... " />
+                <marker date="1509303532000" expanded="true" signature="11594:11628" ph="SELECT * FRO... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="11683:11715" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="11770:12095" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="12150:12217" ph="INSERT INTO ${$prefix}metas... " />
+                <marker date="1509303532000" expanded="true" signature="12183:12217" ph="SELECT * FRO... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="12280:12312" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="20437:20535" ph="ALTER TABLE ${{$prefix}}contents" />
+                <marker date="1509303532000" expanded="true" signature="25031:25119" ph="ALTER TABLE ${$prefix}contents" />
+                <marker date="1509303532000" expanded="true" signature="25252:25334" ph="ALTER TABLE ${$prefix}contents" />
+                <marker date="1509303532000" expanded="true" signature="25502:26140" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="26191:26702" ph="INSERT INTO ${$prefix}contents_tmp... " />
+                <marker date="1509303532000" expanded="true" signature="26450:26702" ph="SELECT &quot;cid&quot;... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="26753:26788" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="26839:27473" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="27524:27601" ph="INSERT INTO ${$prefix}contents... " />
+                <marker date="1509303532000" expanded="true" signature="27560:27601" ph="SELECT * FRO... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="27652:27691" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="35904:36262" ph="CREATE TABLE... ${{$prefix}}fields" />
+                <marker date="1509303532000" expanded="true" signature="36417:36697" ph="CREATE TABLE... ${$prefix}fields" />
+                <marker date="1509303532000" expanded="true" signature="37111:37335" ph="CREATE TABLE... ${$prefix}fields" />
+                <marker date="1509303532000" expanded="true" signature="39423:39508" ph="ALTER TABLE ${$prefix}metas" />
+                <marker date="1509303532000" expanded="true" signature="39641:39720" ph="ALTER TABLE ${$prefix}metas" />
+                <marker date="1509303532000" expanded="true" signature="39888:40266" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="40317:40544" ph="INSERT INTO ${$prefix}metas${$uuid}... " />
+                <marker date="1509303532000" expanded="true" signature="40449:40544" ph="SELECT &quot;mid&quot;... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="40595:40627" ph="DROP TABLE $... " />
+                <marker date="1509303532000" expanded="true" signature="40678:41043" ph="CREATE TABLE... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="41094:41161" ph="INSERT INTO ${$prefix}metas... " />
+                <marker date="1509303532000" expanded="true" signature="41127:41161" ph="SELECT * FRO... ${$prefix}" />
+                <marker date="1509303532000" expanded="true" signature="41220:41252" ph="DROP TABLE $... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Related.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/var/Widget/Contents/Attachment/Related.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unattached.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/var/Widget/Contents/Attachment/Unattached.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>code</find>
+      <find>submit</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -139,11 +427,17 @@
       <list>
         <option value="$PROJECT_DIR$/usr/themes/Kratos-master/header.php" />
         <option value="$PROJECT_DIR$/usr/plugins/BaiduSlug/Plugin.php" />
-        <option value="$PROJECT_DIR$/var/Widget/Abstract.php" />
         <option value="$PROJECT_DIR$/usr/plugins/BaiduSlug/Action.php" />
         <option value="$PROJECT_DIR$/var/Widget/Abstract/Contents.php" />
         <option value="$PROJECT_DIR$/var/Typecho/Common.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config.inc.php" />
+        <option value="$PROJECT_DIR$/usr/plugins/EditorMD-master/Plugin.php" />
+        <option value="$PROJECT_DIR$/var/Widget/Abstract.php" />
+        <option value="$PROJECT_DIR$/var/Widget/Plugins/Edit.php" />
+        <option value="$PROJECT_DIR$/usr/themes/Kratos-master/style.css" />
+        <option value="$PROJECT_DIR$/usr/plugins/ColorHighlight/res/lines.css" />
+        <option value="$PROJECT_DIR$/usr/themes/Kratos-master/comments.php" />
       </list>
     </option>
   </component>
@@ -188,6 +482,24 @@
               <item name="website" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="usr" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="usr" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="usr" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Kratos-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="var" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -220,12 +532,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557583918133</updated>
-      <workItem from="1557583919380" duration="12453000" />
+      <workItem from="1557583919380" duration="15876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12453000" />
+    <option name="totallyTimeSpent" value="15876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1037" extended-state="6" />
@@ -261,112 +573,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin/options-general.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/options-plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1557587524812" expanded="true" signature="169:181" ph="&lt;IfModule mod_rewrite.c&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/options-permalink.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/theme-editor.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usr/plugins/HelloWorld/Plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/write-js.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3400">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usr/plugins/seohtml/Plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="23" column="78" lean-forward="false" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usr/plugins/Comment2Wechat-master/Plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="75" column="23" lean-forward="false" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usr/plugins/BaiduSlug/Pinyin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3880">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usr/plugins/BaiduSlug/Plugin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -479,14 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/var/Widget/Abstract.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="61" column="51" lean-forward="false" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/var/Typecho/Db/Query.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -495,14 +693,6 @@
             <marker date="1509303532000" expanded="true" signature="13122:13384" ph="INSERT INTO ${$this-&gt;_sqlPreBuild['table']}... " />
             <marker date="1509303532000" expanded="true" signature="13495:13507" ph="DELETE FROM " />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,14 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="50" column="12" lean-forward="false" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="766">
@@ -664,11 +846,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="137" column="51" lean-forward="true" selection-start-line="137" selection-start-column="51" selection-end-line="137" selection-end-column="51" />
-          <folding>
-            <marker date="1509303532000" expanded="true" signature="29102:29133" ph="DROP TABLE I... " />
-            <marker date="1509303532000" expanded="true" signature="29293:29304" ph="DROP TABLE $... " />
-            <marker date="1509303532000" expanded="true" signature="29473:29484" ph="DROP TABLE $... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -684,6 +862,189 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr/plugins/EditorMD-master/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Widget/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Widget/Abstract/Options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Widget/Plugins/List.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Widget/Plugins/Edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="78" column="5" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="11" column="1395" lean-forward="false" selection-start-line="11" selection-start-column="1391" selection-end-line="11" selection-end-column="1395" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Upgrade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509303532000" expanded="true" signature="5131:5179" ph="ALTER TABLE ${$prefix}users" />
+            <marker date="1509303532000" expanded="true" signature="5324:5379" ph="ALTER TABLE ${$prefix}users" />
+            <marker date="1509303532000" expanded="true" signature="5563:6131" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="6186:6529" ph="INSERT INTO ${$prefix}users_${$uuid}... " />
+            <marker date="1509303532000" expanded="true" signature="6366:6529" ph="SELECT &quot;uid&quot;... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="6584:6616" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="6671:7225" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="7280:7348" ph="INSERT INTO ${$prefix}users... " />
+            <marker date="1509303532000" expanded="true" signature="7313:7348" ph="SELECT * FRO... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="7411:7444" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="8116:8188" ph="ALTER TABLE ${$prefix}contents" />
+            <marker date="1509303532000" expanded="true" signature="8243:8312" ph="ALTER TABLE ${$prefix}metas" />
+            <marker date="1509303532000" expanded="true" signature="8457:8534" ph="ALTER TABLE ${$prefix}contents" />
+            <marker date="1509303532000" expanded="true" signature="8589:8663" ph="ALTER TABLE ${$prefix}metas" />
+            <marker date="1509303532000" expanded="true" signature="8847:9581" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="9636:9722" ph="INSERT INTO ${$prefix}contents${$uuid}... " />
+            <marker date="1509303532000" expanded="true" signature="9685:9722" ph="SELECT * FRO... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="9777:9812" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="9867:10588" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="10643:10716" ph="INSERT INTO ${$prefix}contents... " />
+            <marker date="1509303532000" expanded="true" signature="10679:10716" ph="SELECT * FRO... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="10779:10814" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="11155:11493" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="11548:11628" ph="INSERT INTO ${$prefix}metas${$uuid}... " />
+            <marker date="1509303532000" expanded="true" signature="11594:11628" ph="SELECT * FRO... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="11683:11715" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="11770:12095" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="12150:12217" ph="INSERT INTO ${$prefix}metas... " />
+            <marker date="1509303532000" expanded="true" signature="12183:12217" ph="SELECT * FRO... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="12280:12312" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="20437:20535" ph="ALTER TABLE ${{$prefix}}contents" />
+            <marker date="1509303532000" expanded="true" signature="25031:25119" ph="ALTER TABLE ${$prefix}contents" />
+            <marker date="1509303532000" expanded="true" signature="25252:25334" ph="ALTER TABLE ${$prefix}contents" />
+            <marker date="1509303532000" expanded="true" signature="25502:26140" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="26191:26702" ph="INSERT INTO ${$prefix}contents_tmp... " />
+            <marker date="1509303532000" expanded="true" signature="26450:26702" ph="SELECT &quot;cid&quot;... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="26753:26788" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="26839:27473" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="27524:27601" ph="INSERT INTO ${$prefix}contents... " />
+            <marker date="1509303532000" expanded="true" signature="27560:27601" ph="SELECT * FRO... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="27652:27691" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="35904:36262" ph="CREATE TABLE... ${{$prefix}}fields" />
+            <marker date="1509303532000" expanded="true" signature="36417:36697" ph="CREATE TABLE... ${$prefix}fields" />
+            <marker date="1509303532000" expanded="true" signature="37111:37335" ph="CREATE TABLE... ${$prefix}fields" />
+            <marker date="1509303532000" expanded="true" signature="39423:39508" ph="ALTER TABLE ${$prefix}metas" />
+            <marker date="1509303532000" expanded="true" signature="39641:39720" ph="ALTER TABLE ${$prefix}metas" />
+            <marker date="1509303532000" expanded="true" signature="39888:40266" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="40317:40544" ph="INSERT INTO ${$prefix}metas${$uuid}... " />
+            <marker date="1509303532000" expanded="true" signature="40449:40544" ph="SELECT &quot;mid&quot;... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="40595:40627" ph="DROP TABLE $... " />
+            <marker date="1509303532000" expanded="true" signature="40678:41043" ph="CREATE TABLE... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="41094:41161" ph="INSERT INTO ${$prefix}metas... " />
+            <marker date="1509303532000" expanded="true" signature="41127:41161" ph="SELECT * FRO... ${$prefix}" />
+            <marker date="1509303532000" expanded="true" signature="41220:41252" ph="DROP TABLE $... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="766">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr/plugins/ColorHighlight/res/lines.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Recent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1395">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/Widget/Comments/Edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4679">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/manage-comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="306" column="78" lean-forward="false" selection-start-line="306" selection-start-column="74" selection-end-line="306" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="107" column="224" lean-forward="false" selection-start-line="107" selection-start-column="224" selection-end-line="107" selection-end-column="224" />
           <folding />
         </state>
       </provider>
