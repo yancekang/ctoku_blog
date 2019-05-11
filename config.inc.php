@@ -45,6 +45,7 @@ require_once 'Typecho/I18n.php';
 /** 载入数据库支持 */
 require_once 'Typecho/Db.php';
 
+
 /** 载入路由器支持 */
 require_once 'Typecho/Router.php';
 

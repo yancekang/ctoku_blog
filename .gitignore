@@ -1,4 +1,4 @@
-/config.inc.php
-/install
-/.idea
+config.inc.php
+/install/
+.idea/
 .user.ini

@@ -41,7 +41,6 @@ pre code::-webkit-scrollbar-thumb {
 	background-color:#21252b!important
 }
 pre code {
-	background:#1d1f21;
 	color:#fff;
 	word-break:break-word;
 	font-family:'Source Code Pro',monospace,Helvetica,Tahoma,Arial,STXihei,"STHeiti Light","Microsoft YaHei",sans-serif;
