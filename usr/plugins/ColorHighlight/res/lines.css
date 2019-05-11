@@ -84,12 +84,14 @@ pre code::-webkit-scrollbar-thumb:active {
 }
 
 pre,article pre{
-    max-height: calc(100vh - 250px);
+    /*max-height: calc(100vh - 250px);*/
     overflow: auto;
     padding: 0;
     margin-left: 2px;
     background: #161616;
-    min-height: 100%;    position: relative;    padding-top: 38px;    overflow-y: hidden;
+    min-height: 100%;    position: relative;    padding: 38px 10px 15px;   overflow-y: hidden;
+    border:none;
+    font-size: 12px;
 }
 
 .btn-copy-code {
