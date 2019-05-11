@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac1e5fb3-11dd-4abd-a942-5260fb67143c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.inc.php" afterPath="$PROJECT_DIR$/config.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/plugins/ColorHighlight/res/styles/customemin.css" afterPath="$PROJECT_DIR$/usr/plugins/ColorHighlight/res/styles/customemin.css" />
-    </list>
+    <list default="true" id="ac1e5fb3-11dd-4abd-a942-5260fb67143c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +219,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17930000" />
+    <option name="totallyTimeSpent" value="18018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1037" extended-state="6" />
