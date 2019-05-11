@@ -17,9 +17,9 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 								<?php if ($this->options->socialfacebook): ?><a target="_blank" rel="external nofollow" href="<?php $this->options->socialfacebook(); ?>"><i class="fa fa-facebook"></i></a><?php endif; ?>
 								<?php if ($this->options->socialrss): ?><a target="_blank" href="<?php if ($this->options->socialrss == 'off'): ?><?php $this->options ->siteUrl(); ?>feed/"><?php else: ?><?php $this->options->socialrss(); ?><?php endif; ?><i class="fa fa-rss"></i></a><?php endif; ?>
 							</p>
-							<p>Copyright <?php echo date("Y"); ?> <a href="<?php $this->options ->siteUrl(); ?>"><?php $this->options->title();?></a>.
+							<p>Copyright <?php echo date("Y"); ?> <a href="<?php $this->options ->siteUrl(); ?>"><?php $this->options->title();?></a>. 备案号： 陇ICP备18002231号-1
 							<br>Powered by <a href="http://www.typecho.org/" target="_blank">Typecho</a>
-							Theme by <a href="https://github.com/vtrois/kratos" target="_blank" rel="nofollow">Kratos</a> </p>
+							</p>
 						</div>
 					</div>
 				</div>
