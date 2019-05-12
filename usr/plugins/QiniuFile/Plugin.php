@@ -97,7 +97,7 @@ class QiniuFile_Plugin implements Typecho_Plugin_Interface
 
 //         保存位置
          $savepath = preg_replace(array('/\{year\}/', '/\{month\}/', '/\{day\}/'), array($date->year, $date->month, $date->day), $option->savepath);
-         $savename = $savepath . sprintf('%u', crc32(uniqid())) . '.' . $ext;
+         $savename = sprintf('%u', crc32(uniqid())) . '.' . $ext;
          if (isset($content))
          {
              $savename = $content['attachment']->path;
