@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1e5fb3-11dd-4abd-a942-5260fb67143c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.user.ini" afterPath="$PROJECT_DIR$/.user.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/css/kratos.diy.css" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/css/kratos.diy.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usr/themes/Kratos-master/post.php" afterPath="$PROJECT_DIR$/usr/themes/Kratos-master/post.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,17 +13,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="44" column="34" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="34" />
+            <state relative-caret-position="398">
+              <caret line="46" column="94" lean-forward="false" selection-start-line="46" selection-start-column="94" selection-end-line="46" selection-end-column="94" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.inc.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.inc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="803">
@@ -78,9 +74,9 @@
         <option value="$PROJECT_DIR$/usr/themes/Kratos-master/footer.php" />
         <option value="$PROJECT_DIR$/usr/plugins/BaiduLinkSeo/Plugin.php" />
         <option value="$PROJECT_DIR$/usr/plugins/QiniuFile/Plugin.php" />
-        <option value="$PROJECT_DIR$/usr/themes/Kratos-master/post.php" />
         <option value="$PROJECT_DIR$/usr/themes/Kratos-master/css/kratos.diy.css" />
         <option value="$PROJECT_DIR$/config.inc.php" />
+        <option value="$PROJECT_DIR$/usr/themes/Kratos-master/post.php" />
       </list>
     </option>
   </component>
@@ -184,12 +180,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557583918133</updated>
       <workItem from="1557583919380" duration="15968000" />
-      <workItem from="1559528187682" duration="1047000" />
+      <workItem from="1559528187682" duration="1228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23071000" />
+    <option name="totallyTimeSpent" value="23252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1037" extended-state="6" />
@@ -566,18 +562,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="44" column="34" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="803">
           <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr/themes/Kratos-master/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="46" column="94" lean-forward="false" selection-start-line="46" selection-start-column="94" selection-end-line="46" selection-end-column="94" />
           <folding />
         </state>
       </provider>
