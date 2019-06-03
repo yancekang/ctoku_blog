@@ -44,7 +44,7 @@
 					</div>
                     <div class="ad">
                         <a href="https://dwz.cn/7Ymd0D3w">
-                            <img src="http://cdn.ctoku.com/blog/211839062.jpg"></a>
+                            <img src="http://cdn.ctoku.com/blog/211839062.jpg" target="_blank"></a>
                         </a>
                     </div>
 					<div class="kratos-hentry kratos-copyright text-center clearfix">
