@@ -42,6 +42,11 @@
 							</div>
 						</footer>
 					</div>
+                    <div class="ad">
+                        <a href="https://dwz.cn/7Ymd0D3w">
+                            <img src="http://cdn.ctoku.com/blog/211839062.jpg"></a>
+                        </a>
+                    </div>
 					<div class="kratos-hentry kratos-copyright text-center clearfix">
 						<img alt="知识共享许可协议" src="<?php $this->options->themeUrl('images/licenses.png'); ?>">
 						<h5>本作品采用 <a rel="license nofollow" target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a> 进行许可</h5>
