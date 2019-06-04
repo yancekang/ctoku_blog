@@ -21,6 +21,13 @@
 			<style type="text/css">html{filter: grayscale(100%);-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);-ms-filter: grayscale(100%);-o-filter: grayscale(100%);filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);filter: gray;-webkit-filter: grayscale(1); }
 			</style>
 		<?php endif; ?>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1803975815987510",
+    enable_page_level_ads: true
+  });
+</script>
 	</head>
 	<?php flush(); ?>
 	<body data-spy="scroll" data-target=".scrollspy">
@@ -59,7 +66,7 @@
 <div class="kratos-start kratos-hero-2">
 	<div class="kratos-overlay"></div>
 	<div class="kratos-cover kratos-cover_2 text-center" style="background-image: url(<?php ($this->options->bannerimg) ? $this->options->bannerimg() : $this->options->themeUrl('images/background.jpg'); ?>);">
-		<div class="desc desc2 animate-box"><h2><?php $this->options->logoTxt(); ?></h2><span><?php $this->options->description();?></span></div>
+		<div class="desc desc2 animate-box"><h2><?php $this->options->logoTxt(); ?></h2><span>没有天生的高手，更没有永远的菜鸟求知若饥, 虚心若愚</span></div>
 	</div>
 </div>
 <div id="kratos-blog-post" style="background:#f5f5f5"><!--header-->
