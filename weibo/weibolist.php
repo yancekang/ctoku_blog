@@ -5,6 +5,7 @@
 
 include_once( 'config.php' );
 include_once( 'saetv2.ex.class.php' );
+<<<<<<< HEAD
 var_dump($_SESSION['token']['access_token']);
 echo $_COOKIE['access_token'];
 $c = new SaeTClientV2( WB_AKEY , WB_SKEY , $_COOKIE['access_token'] );
@@ -12,6 +13,16 @@ $ms  = $c->home_timeline(); // done
 $uid_get = $c->get_uid();
 $uid = $uid_get['uid'];
 $user_message = $c->show_user_by_id( $uid);//根据ID获取用户等基本信息
+=======
+
+$c = new SaeTClientV2( WB_AKEY , WB_SKEY , $_SESSION['token']['access_token'] );
+$ms  = $c->home_timeline(); // done
+$uid_get = $c->get_uid();
+var_dump($uid_get);
+$uid = $uid_get['uid'];
+$user_message = $c->show_user_by_id( $uid);//根据ID获取用户等基本信息
+
+>>>>>>> 106c804882e3db0532772ff574396bddfad68362
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
