@@ -7,9 +7,11 @@ include_once( 'config.php' );
 include_once( 'saetv2.ex.class.php' );
 var_dump($_COOKIE['accsess_token']);
 $c = new SaeTClientV2( WB_AKEY , WB_SKEY , $_COOKIE['accsess_token'] );
+var_dump($_SESSION['token']['access_token']);
+echo $_COOKIE['access_token'];
+$c = new SaeTClientV2( WB_AKEY , WB_SKEY , $_COOKIE['access_token'] );
 $ms  = $c->home_timeline(); // done
 $uid_get = $c->get_uid();
-var_dump($uid_get);
 $uid = $uid_get['uid'];
 $user_message = $c->show_user_by_id( $uid);//根据ID获取用户等基本信息
 
