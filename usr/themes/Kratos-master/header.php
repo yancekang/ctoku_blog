@@ -1,6 +1,6 @@
 <?php if(!defined( '__TYPECHO_ROOT_DIR__'))exit;?>
 <!DOCTYPE HTML>
-<html class="no-js">
+<html class="no-js" xmlns:wb="http://open.weibo.com/wb">
 	<head>
 		<title><?php $this->archiveTitle(array('category'=>_t(' %s '),'search'=>_t(' %s '),'tag'=>_t(' %s '),'author'=>_t(' %s ')),'',' - ');?> <?php $this->options->title();?></title>
 		<meta charset="<?php $this->options->charset(); ?>">
@@ -16,6 +16,7 @@
 		<link rel='stylesheet' id='superfish-style-css'  href='//cdn.bootcss.com/superfish/1.7.4/superfish.min.css' type='text/css' media='all' />
 		<link rel='stylesheet' id='kratos-style-css'  href='<?php $this->options->themeUrl('style.css?ver=2.5.2'); ?>' type='text/css' media='all' />
 		<link rel='stylesheet' id='kratos-diy-style-css'  href='<?php $this->options->themeUrl('css/kratos.diy.css?ver=2.5.2'); ?>' type='text/css' media='all' />
+        <script src="https://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 		<?php $this->header('keywords=&generator=&template=&pingback=&xmlrpc=&wlw=&commentReply=&rss1=&rss2=&atom='); ?>
 		<?php if($this->options->site_bw == 'able'): ?>
 			<style type="text/css">html{filter: grayscale(100%);-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);-ms-filter: grayscale(100%);-o-filter: grayscale(100%);filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);filter: gray;-webkit-filter: grayscale(1); }
