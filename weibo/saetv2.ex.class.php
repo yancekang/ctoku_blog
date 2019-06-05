@@ -1134,13 +1134,15 @@ class SaeTClientV2
 	function share($status, $pic = false, $rip = false)
 	{
 		$params = array();
-		$params['status'] = $status;
+		$params['status'] = urlencode($status);
 		$with_media = false;
 		if ($pic) {
 			$params['pic'] = '@'.$pic;
 			$with_media = true;
 		}
-		if ($rip) {
+        var_dump($rip);
+        $rip = '47.93.235.72';
+        if ($rip) {
 			$params['rip'] = $rip;
 		}
 
