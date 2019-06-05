@@ -86,11 +86,17 @@ class WeiboSync_Plugin implements Typecho_Plugin_Interface
      */
     public static function SinaAuth()
     {
+        $config = self::getWeiboSyncCfg();
     	self::getPubFile();
-    	$sina_auth = new SaeTOAuthV2( WB_AKEY , WB_SKEY );
+    	$sina_auth = new SaeTOAuthV2( WB_AKEY , WB_SKEY, $config->sina_token);
     	$authurl = $sina_auth->getAuthorizeURL( WB_CALLBACK_URL , 'code');
     	$img_path = Helper::options()->pluginUrl . '/WeiboSync/weibo.png';
     	echo $sina_profile = '<ul class="typecho-option"><li><a href="' . $authurl . '"><img src="' . $img_path . '"></a>&nbsp;&nbsp;<b>点击左边图标获取微博Access_token信息</b></li></ul>';
+        $post_token = self::GetAuthInfo();
+        $sina_auth = $post_token['sina_auth'];
+        $a = $sina_auth->get_uid();
+        $info =$sina_auth->show_user_by_id($a['uid']);
+        echo '<ul class="typecho-option"><li><b>'.$info['screen_name'].',你好!</b></li></ul>';
     }
     
     
@@ -129,7 +135,7 @@ class WeiboSync_Plugin implements Typecho_Plugin_Interface
 			}
 		}
 		
-		$format = $config->sina_format?$config->sina_format:'我在TypeCodes上发表了一篇文章《{title}》，链接地址{link}';
+		$format = $config->sina_format?$config->sina_format:'我在[技术库]上发表了一篇文章《{title}》，链接地址{link}';
 		$title = $content['title'];
 		$link = self::SinaShortUrl($content['permalink']);
 		
@@ -203,9 +209,9 @@ class WeiboSync_Plugin implements Typecho_Plugin_Interface
     	$post_token = self::GetAuthInfo();
     	$sina_auth = $post_token['sina_auth'];
     	if( empty($img_url) )
-    		$sina_auth->share( $post );
+    		return $sina_auth->share( $post );
     	else
-    		$sina_auth->share( $post, $img_url );
+            return $sina_auth->share( $post, $img_url );
     }
 	
 	
