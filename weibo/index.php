@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
+session_start();
+=======
 exit();
+>>>>>>> 106c804882e3db0532772ff574396bddfad68362
 if( isset($_REQUEST['code']) ) {
 	include 'config.php';
 	include 'saetv2.ex.class.php';
@@ -13,6 +17,24 @@ if( isset($_REQUEST['code']) ) {
 		$token = $o->getAccessToken( 'code', $keys ) ;
 	} catch (OAuthException $e) {
 	}
+<<<<<<< HEAD
+	if ($token) {
+//        $_COOKIE['access_token'] = $_COOKIE['access_token'];
+        $expire=time()+60*60*24*30;
+        setcookie("access_token", $token['access_token'], $expire);
+		$c = new SaeTClientV2( WB_AKEY , WB_SKEY , $token['access_token'] );
+		$uid_get = $c->get_uid();
+//		var_dump($c);
+		echo json_encode($uid_get);
+//		echo 'Sina_weibo_Access_token = ['. $token['access_token'] . "]<p/>Sina_weibo_Uid = [" . $uid_get['uid'] . ']';
+	} else {
+//        echo $_SESSION['access_token'];
+        $c = new SaeTClientV2( WB_AKEY , WB_SKEY , $_COOKIE['access_token'] );
+        $info = $c->rate_limit_status();
+        echo json_encode($info);
+
+    }
+=======
 	
 	if ($token) {
 		$c = new SaeTClientV2( WB_AKEY , WB_SKEY , $token['access_token'] );
@@ -21,5 +43,6 @@ if( isset($_REQUEST['code']) ) {
 
 		echo 'Sina_weibo_Access_token = ['. $token['access_token'] . "]<p/>Sina_weibo_Uid = [" . $uid_get['uid'] . ']';
 	}
+>>>>>>> 106c804882e3db0532772ff574396bddfad68362
 }
 exit;
