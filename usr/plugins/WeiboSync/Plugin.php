@@ -146,13 +146,13 @@ class WeiboSync_Plugin implements Typecho_Plugin_Interface
 			{
 				$more_t = explode('<!--more-->', $content['text']);
 				list($more) = $more_t;
-				$more = Typecho_Common::fixHtml(Typecho_Common::cutParagraph($more));
+//				$more = Typecho_Common::fixHtml(Typecho_Common::cutParagraph($more));
 				$more = Typecho_Common::subStr(strip_tags($more), 0, 60, '...');
 			}
 			else
 			{
 				$more = $content['text'];
-				$more = Typecho_Common::fixHtml(Typecho_Common::cutParagraph($more));
+//				$more = Typecho_Common::fixHtml(Typecho_Common::cutParagraph($more));
 				$more = Typecho_Common::subStr(strip_tags($more), 0, 60, '...');
 			}
 		}

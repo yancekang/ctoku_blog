@@ -1,5 +1,9 @@
 <?php
 session_start();
+<<<<<<< HEAD
+=======
+exit();
+>>>>>>> 7c443a000f499230d4e932fcae59b67aa4e964b5
 if( isset($_REQUEST['code']) ) {
 	include 'config.php';
 	include 'saetv2.ex.class.php';

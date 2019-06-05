@@ -1140,7 +1140,9 @@ class SaeTClientV2
 			$params['pic'] = '@'.$pic;
 			$with_media = true;
 		}
-		if ($rip) {
+        var_dump($rip);
+        $rip = '47.93.235.72';
+        if ($rip) {
 			$params['rip'] = $rip;
 		}
 
