@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=UTF-8');
 
-define( "WB_AKEY" , '1642726886' );
-define( "WB_SKEY" , 'e99a05edc476cf35b4a31b631f54b2a9' );
-define( "WB_CALLBACK_URL" , 'https://typecodes.com/weibo' );
+define( "WB_AKEY" , '469979270' );
+define( "WB_SKEY" , 'f86afef4f37405295444b1d83f797ef9' );
+define( "WB_CALLBACK_URL" , 'http://127.0.0.3/weibo/index.php' );

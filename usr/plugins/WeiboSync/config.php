@@ -1,4 +1,4 @@
 <?php
-define( 'WB_AKEY' , '3729174724' );
-define( 'WB_SKEY' , 'a01f958e34b60e657d1f227787682755' );
-define( 'WB_CALLBACK_URL' , 'http://www.cngansu.cn' );
+define( "WB_AKEY" , '469979270' );
+define( "WB_SKEY" , 'f86afef4f37405295444b1d83f797ef9' );
+define( "WB_CALLBACK_URL" , 'http://127.0.0.3/weibo/index.php' );
