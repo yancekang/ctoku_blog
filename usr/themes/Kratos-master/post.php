@@ -33,9 +33,11 @@
                         <?php parseContent($this); ?>
                         <?php if ($this->options->ad_postend): ?><img src="<?php $this->options->ad_postend(); ?>"><?php endif; ?>
 						</div>
+                        <wb:share-button appkey="481944186" addition="full" type="button" ralateUid="2867936455"></wb:share-button>
 						<footer class="kratos-entry-footer clearfix">
 							<div class="footer-tag clearfix">
 								<div class="pull-left">
+
 								<i class="fa fa-tags"></i>
 								<?php $this->tags(' ', true, '<a>没有标签</a>'); ?>
 								</div>

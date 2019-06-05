@@ -1,5 +1,4 @@
 <?php
-exit();
 if( isset($_REQUEST['code']) ) {
 	include 'config.php';
 	include 'saetv2.ex.class.php';
@@ -15,6 +14,7 @@ if( isset($_REQUEST['code']) ) {
 	}
 	
 	if ($token) {
+	    setcookie('accsess_token', $token['access_token']);
 		$c = new SaeTClientV2( WB_AKEY , WB_SKEY , $token['access_token'] );
 		$uid_get = $c->get_uid();
       		var_dump($uid_get);
